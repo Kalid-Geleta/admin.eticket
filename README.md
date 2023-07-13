@@ -42,6 +42,6 @@ For detailed usage instructions and additional information, please refer to the 
 Please wait while we decide our terms for contribution 
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Patel And Kalid Group] Licence.
 
 
