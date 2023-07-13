@@ -39,7 +39,7 @@ Once the application is up and running, you can access the various administrativ
 For detailed usage instructions and additional information, please refer to the user documentation available in the repository's `docs` directory.
 
 ## Contributing
-Please wait while we decide our terms for contribution 
+Please wait while we decide our terms for contribution. Thank You Very Much
 
 ## License
 This project is licensed under the [Patel And Kalid Group] Licence.
